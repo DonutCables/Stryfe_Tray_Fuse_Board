@@ -1,5 +1,7 @@
 (sym_lib_table
-  (lib (name "Connector")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Connector.kicad_sym")(options "")(descr ""))
-  (lib (name "Connector_Generic")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Connector_Generic.kicad_sym")(options "")(descr ""))
-  (lib (name "Device")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Device.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "Connector")(type "KiCad")(uri "${KICAD7_SYMBOL_DIR}/Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_Generic")(type "KiCad")(uri "${KICAD7_SYMBOL_DIR}/Connector_Generic.kicad_sym")(options "")(descr ""))
+  (lib (name "Device")(type "KiCad")(uri "${KICAD7_SYMBOL_DIR}/Device.kicad_sym")(options "")(descr ""))
+  (lib (name "donutbrary")(type "KiCad")(uri "${KIPRJMOD}/donutbrary.pretty/donutbrary.kicad_sym")(options "")(descr ""))
 )

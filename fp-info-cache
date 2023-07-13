@@ -1,4 +1,4 @@
-191267156422487
+249485238734288
 Connector_AMASS
 AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
 Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
@@ -811,3 +811,248 @@ terminal block bornier6
 0
 6
 6
+donutbrary
+AF_Standoff_M3
+Pad for Adafruit M3 solderable standoffs
+
+0
+0
+0
+donutbrary
+AT90USB1286_TQFP_14mm
+64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+64
+64
+donutbrary
+Amass_XT60PW-M
+
+
+0
+4
+2
+donutbrary
+Amass_XT60PW-M_Kombifootprint
+
+
+0
+6
+2
+donutbrary
+C_1608
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+donutbrary
+DIP-28_W7.62mm_LongPads
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+28
+28
+donutbrary
+D_SMD_THT_back
+Diode, DO-35,  SOD27, SOD-123, Horizontal, RM 10mm
+Diode, DO-35, SOD27, SOD-123, Horizontal, RM 10mm, 1N4148,
+0
+6
+2
+donutbrary
+D_SMD_THT_front
+Diode, DO-35,  SOD27, SOD-123, Horizontal, RM 10mm
+Diode, DO-35, SOD27, SOD-123, Horizontal, RM 10mm, 1N4148,
+0
+6
+2
+donutbrary
+D_SMD_back
+Diode, SOD-123
+Diode, SOD-123, Horizontal, 1N4148
+0
+2
+2
+donutbrary
+D_SMD_front
+Diode, SOD-123
+Diode, SOD-123, Horizontal, 1N4148
+0
+2
+2
+donutbrary
+D_SOD-323_bb
+SOD-323 for BigBoard
+SOD-323
+0
+2
+2
+donutbrary
+D_THT_back
+Diode, DO-35,  SOD27, Horizontal, RM 10mm
+Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,
+0
+2
+2
+donutbrary
+D_THT_front
+Diode, DO-35,  SOD27, Horizontal, RM 10mm
+Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,
+0
+2
+2
+donutbrary
+EC11
+EC11 encoder, F.Silk only
+rotary encoder
+0
+7
+6
+donutbrary
+KB2040
+Adafruit KB2040
+
+0
+26
+26
+donutbrary
+M3_Hole
+Hole for M3 countersunk
+
+0
+1
+1
+donutbrary
+MA_1u
+MX/Alps hybrid 1u
+MX Alps 1u
+0
+2
+2
+donutbrary
+MK_1u
+
+
+0
+2
+2
+donutbrary
+MX_1u
+Mx plain 1u
+Mx 1u
+0
+2
+2
+donutbrary
+Mousebite
+Breakaway mousebites, .5mm on 1mm grid
+
+0
+0
+0
+donutbrary
+Mousebite_Single
+Breakaway mousebites, .5mm on 1mm grid
+
+0
+0
+0
+donutbrary
+ProMicro_EC
+Pro Micro EliteC version
+
+0
+29
+29
+donutbrary
+ProMicro_EPC
+Pro Micro EliteC/ProtonC combo
+
+0
+45
+45
+donutbrary
+ProMicro_Normal
+Pro Micro normal 32u4 version
+
+0
+24
+24
+donutbrary
+R_1608
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+donutbrary
+R_SMD_THT
+Plain THT resistor, with 0805 pads
+
+0
+6
+2
+donutbrary
+R_THT
+Plain THT resistor
+
+0
+2
+2
+donutbrary
+SolderJumper3
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+5
+3
+donutbrary
+THT_Header
+For .1 pitch pins, edit to size on pcb
+
+0
+8
+8
+donutbrary
+TRRS-PJ-320A
+
+
+0
+4
+4
+donutbrary
+Teensy2.0++
+Simple Teensy2.0++ footprint
+
+0
+48
+48
+donutbrary
+WS2812B
+
+
+0
+4
+4
+donutbrary
+WS2812B_bb
+
+
+0
+6
+4
+donutbrary
+XIAO QTPY RP2040
+Simple tht footprint for kb usage
+
+0
+14
+14
+donutbrary
+teensy_sd
+Footprint for Teensy SD reader addon
+
+0
+10
+10
